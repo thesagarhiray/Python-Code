@@ -1,0 +1,15 @@
+A teacher bought 100 apples, 95 mangoes and 90 Oranges from a farmer. 14.3% of the fruits could be damaged as per 
+previous records. A teacher started distributing fruits in a classroom of 60 students. There are 40 boys and 20 
+girls. Their seating arrangement is as follows. Write a program to print the following pattern. 
+
+G1 G3
+B1 B5
+B2 B6
+G2 G4
+B3 B7
+B4 B8
+
+If the faculty starts distributing fruits in sequential order, write a program to calculate the following
+
+1. quantity of apples, mangoes and oranges are allocated to girls.
+2. quantity of damaged fruits allocated to total boys and total girls, respectively.
