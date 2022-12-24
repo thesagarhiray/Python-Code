@@ -1,0 +1,16 @@
+Estimates would be as follows 
+high complexity - 5 man days
+Medium complexity - 3 man days
+Low complexity - 1 man day
+
+1 man day = 8 hours.
+
+Billing of Resource per hour
+Senior - 100Rs
+Junior - 50Rs
+Fresher - 15Rs
+
+A Fresher would take double the estimated time to complete the task. A Junior would take 1.5 times of 
+the estimated time.
+
+Write a program to calculate Total Billing amount.
