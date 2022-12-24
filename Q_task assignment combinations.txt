@@ -1,0 +1,32 @@
+In a project, there are 326 issues and 74 enhancements. The team size is of 9 members with following 
+experience. 
+
+TM1 - 10 years - Senior
+TM2 - 9 years  - Senior
+TM3 - 15 years - Senior
+TM4 - 5 years  - Junior
+TM5 - 2 years  - Fresher
+TM6 - 3 years  - Junior
+TM7 - 1 years  - Fresher
+TM8 - 1 years  - Fresher
+TM9 - 6 years  - Junior
+
+The task complexities would be described as high, medium, and low. The task priorities would be described 
+as high, medium, low. 
+
+Out of 326 issues, 1 to 70 are high priority, 71 to 300 are medium priority and the remaining are low 
+priority. Out of 74 enhancements, 1 to 20 are high priority, 21 to 45 are medium and the remaining are 
+low priority.
+
+Out of 326 issues, the task complexities are assumed in sequential order(high, medium, low). For ex: 
+1-high, 2-medium, 3-low, 4-high,5-medium etc. Out of 74 enhancements, 1 to 44 are with medium complexity 
+and remaining are low.
+
+The project manager decides to assign high priority and high complexity tasks to Seniors. Medium priority 
+and medium complexity tasks to Juniors. Low priority and low complexity to Freshers. These combinations 
+could change as per demand.
+
+Write a program 
+
+1. To calculate the number of tasks assigned to Seniors, Juniors and Freshers. 
+2. Considering the sequence to assign tasks, calculate the number of tasks assigned to each individual.
